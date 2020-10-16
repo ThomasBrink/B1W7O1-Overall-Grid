@@ -32,6 +32,7 @@ body{
 	background-image: url("img/banner_bg.png");
 }
 
+
 .fadeslide{
 	grid-column: 2/3;
 	grid-row: 3/4;
@@ -91,6 +92,7 @@ body{
 	margin-left: 460px;
 	font-size: 14px;
 	line-height: 20px;	
+	color: white;
 }
 .fadetitle{
 	grid-column: 2/3;
@@ -222,5 +224,54 @@ body{
 	text-decoration: none;
 	color: black;
 }
+
+.download{
+	grid-column: 3/5;
+	grid-row: 2/3;
+	padding-top: 80px;
+	padding-left: 250px;
+}
+
+.border{
+	border: 5px solid lightgrey;
+	border-radius: 5px;
+}
+
+.pagetitle{
+	grid-column: 2/3;
+	grid-row: 2/3;
+	padding-left: 50px; 
+	color: white;
+	font-size: 26px;
+	line-height: 30px; 
+}
+
+.pagetext{
+	grid-column: 2/3;
+	grid-row: 2/3;
+	padding-top: 60px;
+	padding-left: 50px;
+	color: white;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.pagedash{
+	grid-column: 2/3;
+	grid-row: 2/3;
+	padding-top: 240px;
+	padding-left: 50px;
+	color: white;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.jake{
+	grid-column: 3/5;
+	grid-row: 2/3;
+	padding-top: 40px;
+	padding-left: 370px;
+}
+
 
 
